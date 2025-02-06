@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.page{
+    padding: 250px 0 150px;
+    background-image: linear-gradient(rgba(7, 7, 7, 0.75),rgba(7, 7, 7, 0.75)),url(../Images/Background/all-bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 0 0;
+    width: 100px;
+    height: 50px;
+    color: white;
+}
